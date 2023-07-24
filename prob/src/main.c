@@ -42,7 +42,7 @@ int main(void) {
 		return 1; 
 	}
 
-	for (int i = 0; i < 1000; i++)
+	for (int i = 0; i < 1000000; i++)
 	{
 		float x = gen_mixt_expo_value(5.0, 17.23, 82.36, 0.44); 
 		fprintf(file, "%f\n", x); 
