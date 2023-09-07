@@ -1,0 +1,4 @@
+/home/johannes/Documents/git/learning_more_c/cmake/build/CMakeFiles/mylib.dir
+/home/johannes/Documents/git/learning_more_c/cmake/build/CMakeFiles/main.dir
+/home/johannes/Documents/git/learning_more_c/cmake/build/CMakeFiles/edit_cache.dir
+/home/johannes/Documents/git/learning_more_c/cmake/build/CMakeFiles/rebuild_cache.dir
