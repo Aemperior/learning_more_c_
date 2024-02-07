@@ -46,6 +46,7 @@ int main(void) {
 	{
 		float x = gen_mixt_expo_value(5.0, 17.23, 82.36, 0.44); 
 		fprintf(file, "%f\n", x); 
+
 	}
 	
 	fclose(file); 
